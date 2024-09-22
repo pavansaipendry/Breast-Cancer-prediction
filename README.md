@@ -10,4 +10,9 @@ This project involves building a logistic regression model to classify breast ca
 - Model Training: A logistic regression model is trained using the `LogisticRegression` class from sklearn.
 - Model Evaluation: The model is evaluated using `accuracy_scores` and `confusion matrices`.
 
-
+#### Model Evaluation Result:
+Here are the accuracy and other parameters for the model:
+- Accuracy: 98.25%
+- Precision: 99.06%
+- Recall: 98.15%
+- F1 Score: 98.60%
